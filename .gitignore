@@ -1,0 +1,11 @@
+**/__pycache__
+.env
+
+# exclude everything
+uploads/*
+
+# exception to the rule
+!uploads/placeholders
+!uploads/.gitkeep 
+
+_old/
